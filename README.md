@@ -10,7 +10,7 @@ Soy un desarrollador web con experiencia en **HTML, CSS, JavaScript, PHP y WordP
 - 🛠️ **Otras herramientas**: Git, GitHub, cPanel, SEO básico
 
 ### 📌 Proyectos Destacados
-🔹 [Center Fitness](https://github.com/juampere/centerfitness) - Proyecto de sitio web para un gimnasio, desarrollado con WordPress y PHP.
+🔹 [Center Fitness](https://github.com/juampere/centerfitness) - Proyecto de sitio web para un gimnasio, desarrollado con WordPress y PHP
 🔹 [Proyecto 2](#) - Breve descripción del proyecto  
 🔹 [Proyecto 3](#) - Breve descripción del proyecto  
 
