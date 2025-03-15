@@ -1,16 +1,26 @@
-<h1 align="center"><b>Hola , Soy Juan Cruz Perez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 👋 ¡Hola! Soy Juan Cruz Perez 
+### Desarrollador Web | WordPress | Freelancer  
 
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=WordPress+Developer;WooCommerce+Shopify;HTML%20|%20CSS%20|%20JavaScript;Siempre%20en%20Aprendizaje&center=true&width=380&height=45">
-	</a>
-</p>
+Soy un desarrollador web con experiencia en **HTML, CSS, JavaScript, PHP y WordPress**, especializado en la creación de sitios para pymes y comercios. Me encanta transformar ideas en soluciones digitales funcionales y optimizadas. 🚀
 
-# About Me:
+### 🚀 Tecnologías y herramientas
+- 🖥️ **Front-end**: HTML, CSS, JavaScript
+- ⚙️ **Back-end**: PHP, MySQL
+- 🎨 **CMS**: WordPress (Temas, Plugins, Elementor)
+- 🛠️ **Otras herramientas**: Git, GitHub, cPanel, SEO básico
 
-Soy un WordPress Developer con experiencia en la creación de sitios web para pymes y comercios en Argentina. Trabajo como freelancer, desarrollando soluciones a medida con WordPress, WooCommerce, Shopify, PHP, HTML, CSS y JavaScript para mejorar la presencia online de mis clientes. 
+### 📌 Proyectos Destacados
+🔹 [Proyecto 1](#) - Breve descripción del proyecto  
+🔹 [Proyecto 2](#) - Breve descripción del proyecto  
+🔹 [Proyecto 3](#) - Breve descripción del proyecto  
 
-🔭 **Actualmente Aprendiendo:**  <br>Implementación de soluciones BackEnd con Laravel.<br><br>👯 **Buscando colaborar en:**  <br>Proyectos WordPress/Frontend/Backend<br><br>🌱 **Herramientos que uso:**  <br>Visual Studio Code, Git, Docker, Xampp.<br><br>💬 **Hablemos de:**  <br>JavaScript, TypeScript, Node.js, Express, PHP, Laravel, SQL, Diseño Web Responsive y desarrollo web en general.<br><br>⚡
+### 📫 Cómo contactarme
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-cruz-perez-20a1911b2/)
+- 🌐 [Mi web personal](#)
+- 📧 [Correo electrónico](mailto:jcperezdot@gmail.com)
+
+¡Estoy abierto a nuevas oportunidades y colaboraciones! ✨
+
 
 
 
