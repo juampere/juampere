@@ -11,8 +11,7 @@ Soy un desarrollador web con experiencia en **HTML, CSS, JavaScript, PHP y WordP
 
 ### 📌 Proyectos Destacados
 🔹 [Center Fitness](https://github.com/juampere/centerfitness) - Proyecto de sitio web para un gimnasio, desarrollado con WordPress y PHP
-🔹 [Proyecto 2](#) - Breve descripción del proyecto  
-🔹 [Proyecto 3](#) - Breve descripción del proyecto  
+
 
 ### 📫 Cómo contactarme
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-cruz-perez-20a1911b2/)
